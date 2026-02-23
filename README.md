@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taruesahanga&label=Profile%20views&color=0e75b6&style=flat" alt="taruesahanga" /> </p>
 
-- 🔭 I’m currently working on [Local Business Cafe on Learning people](https://taruesahanga.github.io/the-cafe-website/)
+- 🔭 I’m currently working on [Online quiz Project on Learning people](https://taruesahanga.github.io/project3-cricket-online-quiz/)
 
 - 🌱 I’m currently learning **Frontend Plus with Learning People**
 
